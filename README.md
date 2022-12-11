@@ -6,3 +6,6 @@
 - 💬 Ask me about Application Security, SAST Scanners, Devsecops,
 - 📫 How to reach me: [Twitter](https://twitter.com/mr_cyborgboy)
 - 😄 Pronouns: He/Him
+
+### Visitors
+![Visitor Count](https://profile-counter.glitch.me/cyborgboy/count.svg)
